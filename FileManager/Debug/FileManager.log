@@ -1,0 +1,12 @@
+﻿  FileManager.cpp
+  FileScan.cpp
+  main.cpp
+  MD5.cpp
+d:\github\filemanager\filemanager\md5.cpp(85): warning C4309: “=”: 截断常量值
+d:\github\filemanager\filemanager\md5.cpp(110): warning C4018: “<”: 有符号/无符号不匹配
+d:\github\filemanager\filemanager\md5.cpp(147): warning C4244: “=”: 从“std::streamsize”转换到“uint32_t”，可能丢失数据
+  testFileManager.cpp
+  testMD5.cpp
+  testScanFile.cpp
+  正在生成代码...
+  FileManager.vcxproj -> D:\github\FileManager\Debug\FileManager.exe
